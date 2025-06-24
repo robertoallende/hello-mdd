@@ -1,0 +1,74 @@
+English: Hello
+Spanish: Hola
+French: Bonjour
+German: Hallo
+Italian: Ciao
+Portuguese: Olá
+Dutch: Hallo
+Russian: Привет
+Chinese (Mandarin): 你好
+Japanese: こんにちは
+Korean: 안녕하세요
+Arabic: مرحبا
+Hebrew: שלום
+Hindi: नमस्ते
+Bengali: নমস্কার
+Urdu: السلام علیکم
+Persian: سلام
+Turkish: Merhaba
+Greek: Γεια σας
+Polish: Cześć
+Czech: Ahoj
+Hungarian: Szia
+Finnish: Hei
+Swedish: Hej
+Norwegian: Hei
+Danish: Hej
+Icelandic: Halló
+Irish: Dia dhuit
+Welsh: Helo
+Scottish Gaelic: Halò
+Basque: Kaixo
+Catalan: Hola
+Romanian: Salut
+Bulgarian: Здравей
+Serbian: Здраво
+Croatian: Bok
+Slovenian: Zdravo
+Slovak: Ahoj
+Lithuanian: Labas
+Latvian: Sveiki
+Estonian: Tere
+Ukrainian: Привіт
+Belarusian: Прывітанне
+Thai: สวัสดี
+Vietnamese: Xin chào
+Indonesian: Halo
+Malay: Hello
+Tagalog: Kumusta
+Swahili: Hujambo
+Zulu: Sawubona
+Afrikaans: Hallo
+Amharic: ሰላም
+Yoruba: Bawo
+Hausa: Sannu
+Tamil: வணக்கம்
+Telugu: నమస్కారం
+Malayalam: നമസ്കാരം
+Kannada: ನಮಸ್ಕಾರ
+Gujarati: નમસ્તે
+Punjabi: ਸਤ ਸ੍ਰੀ ਅਕਾਲ
+Marathi: नमस्कार
+Nepali: नमस्ते
+Sinhala: ආයුබෝවන්
+Burmese: မင်္ဂလာပါ
+Khmer: ជំរាបសួរ
+Lao: ສະບາຍດີ
+Mongolian: Сайн байна уу
+Tibetan: བཀྲ་ཤིས་བདེ་ལེགས
+Armenian: Բարև
+Georgian: გამარჯობა
+Albanian: Përshëndetje
+Macedonian: Здраво
+Maltese: Bonġu
+Esperanto: Saluton
