@@ -5,6 +5,7 @@ Create a simple Python script that reads the hellos.txt file and randomly select
 
 ## Implementation
 Will create `hello.py` with the following approach:
+- Use Python 3 as the target version
 - Use Python's built-in `random` module for selection
 - Read the entire hellos.txt file and split into lines
 - Filter out empty lines for robustness
